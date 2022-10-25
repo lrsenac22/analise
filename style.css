@@ -1,0 +1,20 @@
+
+.login{
+    background-color: red;
+     height: 15rem;
+     width: 20rem;
+     position: absolute;
+     top: 50%; /* posiciona na metade da tela */
+     margin-top: -160px; /* e retrocede metade da altura */
+     left: 50%; /* posiciona na metade da tela */
+     margin-left: -160px;
+     border-radius: 7px;
+     color: white;
+     text-align: center;
+     padding-top: 30px;
+     
+
+}
+body{
+    background: black;
+}
